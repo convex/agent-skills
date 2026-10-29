@@ -16,10 +16,10 @@ Third-party materials remain under their respective licenses. See
 
 ```bash
 # Choose which skills you want
-npx skills add get-convex/agent-skills
+npx skills add convex/agent-skills
 
 # OR Install all skills
-npx skills add get-convex/agent-skills --all
+npx skills add convex/agent-skills --all
 ```
 
 ## Usage
